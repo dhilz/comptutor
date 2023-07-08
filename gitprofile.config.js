@@ -11,8 +11,8 @@ const config = {
     },
   },
   social: {
-    facebook: '',
-    instagram: '',
+    facebook: 'fadhilz99',
+    instagram: 'khang_phechi',
     website: 'https://dilzshop.my.id',
     email: 'fadhoel@gmail.com',
   },
